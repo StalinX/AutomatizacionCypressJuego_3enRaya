@@ -11,7 +11,7 @@ module.exports = defineConfig({
     baseUrl: "https://harman052.github.io",
     screenshotOnRunFailure: true,
     video: true,
-    videoCompression: 32,
+    //videoCompression: 32,
     screenshotsFolder: "cypress/screenshots",
     videosFolder: "cypress/videos",
     specPattern: "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
