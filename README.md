@@ -112,9 +112,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 Para consultas o sugerencias, por favor contacta a:
 
-- **Nombre**: Tu Nombre
-- **Email**: tu.email@ejemplo.com
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+- **Nombre**: Stalin Patricio Riofrío Terrazas
+- **Email**: sprt.prof@gmail.com
+- **GitHub**: [StalinX]
 
 ¡Gracias por tu interés en mejorar este proyecto!
 
