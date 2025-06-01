@@ -1,0 +1,31 @@
+# Cypress test output
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Coverage reports (si usas code coverage)
+coverage/
+
+# Cache
+.cypress-cache/
