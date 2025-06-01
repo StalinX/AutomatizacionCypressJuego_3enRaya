@@ -1,4 +1,5 @@
 import HomePageActions from '../support/homePageActions';
+import 'cypress-mochawesome-reporter/register';
 
 describe('Tic-Tac-Toe Game Test Cases', () => {
   it('Game Won', () => {
