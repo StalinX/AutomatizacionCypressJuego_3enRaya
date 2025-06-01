@@ -114,7 +114,7 @@ Para consultas o sugerencias, por favor contacta a:
 
 - **Nombre**: Stalin Patricio Riofrío Terrazas
 - **Email**: sprt.prof@gmail.com
-- **GitHub**: [StalinX]
+- **GitHub**: [StalinX](https://github.com/StalinX/)
 
 ¡Gracias por tu interés en mejorar este proyecto!
 
